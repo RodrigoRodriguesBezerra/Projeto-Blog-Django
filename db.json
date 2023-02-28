@@ -1,0 +1,328 @@
+[
+    {
+        "model": "posts.post",
+        "pk": 1,
+        "fields": {
+            "titulo_post": "How to Find the Right Tech Jobs for You",
+            "autor_post": 1,
+            "data_post": "2023-02-10T16:31:05Z",
+            "conteudo_post": "<h1 style=\"margin-top: 0px; margin-bottom: 0px; padding: 0px; font-family: DauphinPlain; font-size: 70px; line-height: 90px; color: rgb(0, 0, 0); text-align: center;\">Lorem Ipsum</h1><h4 style=\"margin-right: 10px; margin-bottom: 5px; margin-left: 10px; padding: 0px; font-size: 14px; line-height: 18px; text-align: center; font-style: italic; color: rgb(0, 0, 0); font-family: &quot;Open Sans&quot;, Arial, sans-serif;\">\"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit...\"</h4><h5 style=\"margin: 5px 10px 20px; padding: 0px; font-size: 12px; line-height: 14px; text-align: center; color: rgb(0, 0, 0); font-family: &quot;Open Sans&quot;, Arial, sans-serif;\">\"There is no one who loves pain itself, who seeks after it and wants to have it, simply because it is pain...\"</h5><hr style=\"margin: 0px; padding: 0px; clear: both; border-top: 0px; height: 1px; background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0)); color: rgb(0, 0, 0); font-family: &quot;Open Sans&quot;, Arial, sans-serif; text-align: center;\"><div id=\"Content\" style=\"margin: 0px; padding: 0px; position: relative; color: rgb(0, 0, 0); font-family: &quot;Open Sans&quot;, Arial, sans-serif; text-align: center;\"><div id=\"bannerL\" style=\"margin: 0px 0px 0px -160px; padding: 0px; position: sticky; top: 20px; width: 160px; height: 10px; float: left; text-align: right;\"><div id=\"div-gpt-ad-1474537762122-2\" data-google-query-id=\"CN74rOSwi_0CFfKRlQId4EQE_w\" style=\"margin: 0px; padding: 0px;\"><div id=\"google_ads_iframe_/15188745,22440292294/Lipsum-Unit3_0__container__\" style=\"margin: 0px; padding: 0px; border: 0pt none; width: 160px; height: 600px;\"></div></div></div><div id=\"bannerR\" style=\"margin: 0px -160px 0px 0px; padding: 0px; position: sticky; top: 20px; width: 160px; height: 10px; float: right; text-align: left;\"><div id=\"div-gpt-ad-1474537762122-3\" data-google-query-id=\"CN_4rOSwi_0CFfKRlQId4EQE_w\" style=\"margin: 0px; padding: 0px;\"><div id=\"google_ads_iframe_/15188745,22440292294/Lipsum-Unit4_0__container__\" style=\"margin: 0px; padding: 0px; border: 0pt none;\"><iframe id=\"google_ads_iframe_/15188745,22440292294/Lipsum-Unit4_0\" name=\"google_ads_iframe_/15188745,22440292294/Lipsum-Unit4_0\" title=\"3rd party ad content\" width=\"1\" height=\"1\" scrolling=\"no\" marginwidth=\"0\" marginheight=\"0\" frameborder=\"0\" role=\"region\" aria-label=\"Advertisement\" tabindex=\"0\" allow=\"attribution-reporting\" data-load-complete=\"true\" data-google-container-id=\"3\" style=\"margin: 0px; padding: 0px; border-width: 0px; border-style: initial; vertical-align: bottom; width: 160px; height: 600px;\"></iframe></div></div></div><div class=\"boxed\" style=\"margin: 10px 28.7969px; padding: 0px; clear: both;\"><div id=\"lipsum\" style=\"margin: 0px; padding: 0px; text-align: justify;\"><p style=\"margin-bottom: 15px; padding: 0px;\">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi tristique, elit vel condimentum sagittis, nibh justo dictum libero, quis fringilla ante neque et neque. Nulla laoreet faucibus consequat. Morbi nunc libero, placerat volutpat risus non, cursus hendrerit magna. Mauris venenatis interdum orci vel suscipit. Nunc augue elit, tristique at ligula at, dignissim varius lacus. Ut varius, sem id auctor gravida, neque sem commodo neque, et elementum purus elit sed risus. Ut eu vulputate mauris, vitae fringilla diam. Etiam sollicitudin velit et mi facilisis aliquet sed quis diam. Morbi in risus justo. Pellentesque convallis mollis quam, eu suscipit nibh pretium vel. Maecenas molestie ligula ex, nec venenatis risus congue at. Ut sit amet urna dictum, elementum nulla accumsan, lacinia erat. Nullam sem ligula, rhoncus vitae dignissim ac, vulputate et ligula. Curabitur lacinia tincidunt elementum. Nam placerat, mauris a consequat viverra, lorem est iaculis ligula, ac luctus tortor tellus sed diam. Sed at suscipit nisi, eget tempus mauris.</p><p style=\"margin-bottom: 15px; padding: 0px;\">Aliquam venenatis feugiat augue, vel lacinia enim vehicula lobortis. Vivamus sodales nisi sed tempus consectetur. In eu tortor id dui convallis tempus a et tellus. Quisque sit amet aliquet sapien. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vel auctor magna, eget condimentum velit. Sed quis erat vitae ipsum eleifend molestie nec ac ex. Quisque hendrerit quis odio ut sollicitudin. Donec dignissim dolor sit amet eros mollis, et suscipit ex mattis. Suspendisse convallis facilisis dolor, et bibendum velit aliquam a.</p><p style=\"margin-bottom: 15px; padding: 0px;\">Sed faucibus fringilla odio, et placerat neque varius vel. Curabitur iaculis magna nec aliquet aliquam. Nunc feugiat interdum erat, sit amet hendrerit mi rutrum non. Ut condimentum eros id nibh cursus fermentum. Ut dapibus auctor est, eget rutrum tortor tempus in. Aliquam blandit risus at erat feugiat, eu viverra orci auctor. Nunc at diam mi. Ut ultrices lacus condimentum, porttitor tortor et, efficitur magna. Vestibulum eu augue sem.</p><p style=\"margin-bottom: 15px; padding: 0px;\">Phasellus id tincidunt ex. Mauris sit amet molestie orci, sed semper est. Donec sit amet est et turpis efficitur aliquet. Curabitur molestie nunc a neque porttitor auctor. Donec consequat sagittis dolor non tempus. Nam iaculis purus ac tortor tempus lobortis. Suspendisse sit amet lectus efficitur, vulputate diam vel, dignissim lorem. Cras et odio in nisl rhoncus volutpat a eu nisi. Suspendisse blandit lorem sed eros tempor dapibus. Proin accumsan scelerisque orci, vel accumsan turpis sodales non.</p><p style=\"margin-bottom: 15px; padding: 0px;\">Mauris facilisis eleifend volutpat. Aliquam nec risus ut lorem consectetur pellentesque. Integer diam magna, porttitor sit amet cursus quis, tincidunt sit amet eros. Vestibulum et massa nec dui interdum dictum. Sed malesuada scelerisque sem, sed pretium velit egestas quis. In hac habitasse platea dictumst. Nullam in diam libero. Integer tincidunt arcu eu placerat venenatis.</p></div></div></div>",
+            "excerto_post": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.",
+            "categoria_post": 4,
+            "imagem_post": "post_img/2023/02/10/keyboard_robot_bw_clone_lego_27558_1280x720.jpg",
+            "publicado_post": true
+        }
+    },
+    {
+        "model": "posts.post",
+        "pk": 2,
+        "fields": {
+            "titulo_post": "The Top 10 New and Promising Artificial Intelligence Technologies You Should Look Out For in 2022",
+            "autor_post": 1,
+            "data_post": "2023-02-10T16:35:18Z",
+            "conteudo_post": "<h4 style=\"margin-right: 10px; margin-bottom: 5px; margin-left: 10px; padding: 0px; font-size: 14px; line-height: 18px; text-align: center; font-style: italic; color: rgb(0, 0, 0); font-family: &quot;Open Sans&quot;, Arial, sans-serif;\">\"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit...\"</h4><h5 style=\"margin: 5px 10px 20px; padding: 0px; font-size: 12px; line-height: 14px; text-align: center; color: rgb(0, 0, 0); font-family: &quot;Open Sans&quot;, Arial, sans-serif;\">\"There is no one who loves pain itself, who seeks after it and wants to have it, simply because it is pain...\"</h5><hr style=\"margin: 0px; padding: 0px; clear: both; border-top: 0px; height: 1px; background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0)); color: rgb(0, 0, 0); font-family: &quot;Open Sans&quot;, Arial, sans-serif; text-align: center;\"><div id=\"Content\" style=\"margin: 0px; padding: 0px; position: relative; color: rgb(0, 0, 0); font-family: &quot;Open Sans&quot;, Arial, sans-serif; text-align: center;\"><div id=\"bannerL\" style=\"margin: 0px 0px 0px -160px; padding: 0px; position: sticky; top: 20px; width: 160px; height: 10px; float: left; text-align: right;\"><div id=\"div-gpt-ad-1474537762122-2\" data-google-query-id=\"CLewucCxi_0CFfC8lQId9F0BBA\" style=\"margin: 0px; padding: 0px;\"><div id=\"google_ads_iframe_/15188745,22440292294/Lipsum-Unit3_0__container__\" style=\"margin: 0px; padding: 0px; border: 0pt none;\"><iframe id=\"google_ads_iframe_/15188745,22440292294/Lipsum-Unit3_0\" name=\"google_ads_iframe_/15188745,22440292294/Lipsum-Unit3_0\" title=\"3rd party ad content\" width=\"1\" height=\"1\" scrolling=\"no\" marginwidth=\"0\" marginheight=\"0\" frameborder=\"0\" role=\"region\" aria-label=\"Advertisement\" tabindex=\"0\" allow=\"attribution-reporting\" data-load-complete=\"true\" data-google-container-id=\"2\" style=\"margin: 0px; padding: 0px; border-width: 0px; border-style: initial; vertical-align: bottom; width: 160px; height: 600px;\"></iframe></div></div></div><div id=\"bannerR\" style=\"margin: 0px -160px 0px 0px; padding: 0px; position: sticky; top: 20px; width: 160px; height: 10px; float: right; text-align: left;\"><div id=\"div-gpt-ad-1474537762122-3\" data-google-query-id=\"CLiwucCxi_0CFfC8lQId9F0BBA\" style=\"margin: 0px; padding: 0px;\"><div id=\"google_ads_iframe_/15188745,22440292294/Lipsum-Unit4_0__container__\" style=\"margin: 0px; padding: 0px; border: 0pt none;\"><iframe id=\"google_ads_iframe_/15188745,22440292294/Lipsum-Unit4_0\" name=\"google_ads_iframe_/15188745,22440292294/Lipsum-Unit4_0\" title=\"3rd party ad content\" width=\"1\" height=\"1\" scrolling=\"no\" marginwidth=\"0\" marginheight=\"0\" frameborder=\"0\" role=\"region\" aria-label=\"Advertisement\" tabindex=\"0\" allow=\"attribution-reporting\" data-load-complete=\"true\" data-google-container-id=\"3\" style=\"margin: 0px; padding: 0px; border-width: 0px; border-style: initial; vertical-align: bottom; width: 160px; height: 600px;\"></iframe></div></div></div><div class=\"boxed\" style=\"margin: 10px 28.7969px; padding: 0px; clear: both;\"><div id=\"lipsum\" style=\"margin: 0px; padding: 0px; text-align: justify;\"><p style=\"margin-bottom: 15px; padding: 0px;\">Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Nulla suscipit accumsan leo. Nulla iaculis et diam id pharetra. Nullam elementum quis risus hendrerit interdum. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Pellentesque faucibus ipsum a nunc dapibus commodo. Vivamus id turpis at ipsum tempor tempor sit amet non augue. Donec arcu eros, vehicula ut augue ac, ultricies fringilla lorem.</p><p style=\"margin-bottom: 15px; padding: 0px;\">Donec pellentesque neque in arcu accumsan dignissim. In vestibulum, lectus sit amet venenatis faucibus, augue nisl scelerisque augue, ut ullamcorper ipsum lacus nec neque. Sed et nulla eget elit bibendum tincidunt. Quisque viverra turpis at quam tempor, non congue dolor sollicitudin. Nunc aliquet feugiat augue, a scelerisque sem ultrices iaculis. Etiam vel tincidunt tellus. In ac dolor nibh. Donec eu erat tempor, suscipit tellus at, condimentum neque. Maecenas accumsan vulputate magna, sit amet hendrerit odio venenatis at. Proin pellentesque venenatis orci, vitae elementum sapien feugiat vel. Morbi quis eros ut justo faucibus venenatis at eget odio. Duis convallis euismod feugiat. Vivamus id tortor ut turpis dignissim placerat. Morbi ex purus, auctor a nisi at, ultricies tincidunt lectus. Vestibulum a tellus nulla. Vivamus urna nunc, finibus vitae ultricies at, pellentesque mattis felis.</p><p style=\"margin-bottom: 15px; padding: 0px;\">Phasellus ut magna malesuada, congue quam ut, maximus odio. Donec et consequat sapien, a ullamcorper dolor. Praesent ut cursus nisi, sit amet vehicula purus. Mauris vulputate sodales lectus sit amet sollicitudin. Vivamus nec viverra lectus. Cras finibus sollicitudin velit nec interdum. Praesent fringilla pretium lorem, et tristique turpis rutrum vitae. Vestibulum lobortis convallis lorem, quis vehicula turpis accumsan sed. Donec sollicitudin diam mauris, et auctor tellus imperdiet vel. Ut ut sapien vestibulum, porttitor felis ac, placerat arcu.</p><p style=\"margin-bottom: 15px; padding: 0px;\">Mauris bibendum et arcu id aliquam. In hac habitasse platea dictumst. Vivamus accumsan semper dolor eget eleifend. In ornare nunc ex, vel porta leo viverra vel. Cras bibendum dictum lectus vel convallis. Maecenas tincidunt, ante vel aliquam fermentum, risus purus facilisis turpis, ut tincidunt ligula ante non metus. Nam auctor ligula id orci dictum, nec condimentum magna dignissim. Nulla quis ultricies enim, non placerat lacus. Aliquam faucibus blandit eleifend.</p><p style=\"margin-bottom: 15px; padding: 0px;\">Ut in magna vitae urna iaculis vestibulum ac eu lacus. Maecenas porta massa nec posuere varius. Integer ut mauris consequat orci lobortis vehicula. Nulla in leo maximus, finibus arcu scelerisque, facilisis odio. Integer eros nisi, tincidunt sed varius sit amet, pulvinar eget lacus. Mauris ut eleifend ligula. Phasellus leo justo, consequat eu quam a, rhoncus sodales erat. Nam vitae finibus est, et ultricies dui.</p><p style=\"margin-bottom: 15px; padding: 0px;\">Morbi nec risus accumsan, auctor enim vitae, fringilla erat. Etiam erat augue, sagittis vel turpis eu, interdum pulvinar nulla. Aliquam diam nunc, accumsan vel turpis vitae, sagittis ornare neque. Vestibulum laoreet ligula quis mauris tempus, quis accumsan ipsum pulvinar. Cras dapibus massa nec ligula consequat molestie. Pellentesque faucibus posuere tellus et consequat. Interdum et malesuada fames ac ante ipsum primis in faucibus. Etiam pretium, risus in commodo fringilla, tortor enim convallis sapien, non dictum magna nisl sit amet est.</p><p style=\"margin-bottom: 15px; padding: 0px;\">Nunc semper dolor a nunc lobortis varius. Phasellus dignissim erat ac est efficitur accumsan. Suspendisse consectetur eget ex vitae semper. Maecenas fringilla elit id felis mollis, quis tempor leo lacinia. Nam dapibus ultrices felis, ut commodo leo blandit id. Fusce velit ligula, luctus a nibh ac, vehicula vehicula nisi. Fusce malesuada dignissim suscipit. Integer varius at lacus quis porta.</p><p style=\"margin-bottom: 15px; padding: 0px;\">Interdum et malesuada fames ac ante ipsum primis in faucibus. Proin a nisi sem. Integer in vulputate metus. Pellentesque tempor consectetur odio accumsan ullamcorper. Donec at blandit risus. Fusce suscipit neque neque, in pharetra tellus aliquam non. Nullam dictum eros ante, at euismod erat volutpat vel. Pellentesque blandit ex nulla, nec porttitor est dapibus ut. Cras lobortis est quam, non venenatis purus hendrerit eu. Quisque eu suscipit metus.</p></div></div></div>",
+            "excerto_post": "Nunc in quam nisl. Aliquam a sollicitudin tortor, et feugiat ligula. Duis pellentesque ornare sapien in cursus. Sed eu nulla est. Quisque mattis odio odio, vel aliquet metus auctor et. Vestibulum condimentum tortor in arcu tristique, sit amet tincidunt magna auctor.",
+            "categoria_post": 4,
+            "imagem_post": "post_img/2023/02/10/processor_cpu_upgrade_installation_chip_robot_5633_1280x720.jpg",
+            "publicado_post": true
+        }
+    },
+    {
+        "model": "posts.post",
+        "pk": 3,
+        "fields": {
+            "titulo_post": "How I Used Machine Learning to Make My Software Better",
+            "autor_post": 1,
+            "data_post": "2023-02-10T16:37:26Z",
+            "conteudo_post": "<h4 style=\"margin-right: 10px; margin-bottom: 5px; margin-left: 10px; padding: 0px; font-size: 14px; line-height: 18px; text-align: center; font-style: italic; color: rgb(0, 0, 0); font-family: &quot;Open Sans&quot;, Arial, sans-serif;\">\"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit...\"</h4><h5 style=\"margin: 5px 10px 20px; padding: 0px; font-size: 12px; line-height: 14px; text-align: center; color: rgb(0, 0, 0); font-family: &quot;Open Sans&quot;, Arial, sans-serif;\">\"There is no one who loves pain itself, who seeks after it and wants to have it, simply because it is pain...\"</h5><hr style=\"margin: 0px; padding: 0px; clear: both; border-top: 0px; height: 1px; background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0)); color: rgb(0, 0, 0); font-family: &quot;Open Sans&quot;, Arial, sans-serif; text-align: center;\"><div id=\"Content\" style=\"margin: 0px; padding: 0px; position: relative; color: rgb(0, 0, 0); font-family: &quot;Open Sans&quot;, Arial, sans-serif; text-align: center;\"><div id=\"bannerL\" style=\"margin: 0px 0px 0px -160px; padding: 0px; position: sticky; top: 20px; width: 160px; height: 10px; float: left; text-align: right;\"><div id=\"div-gpt-ad-1474537762122-2\" data-google-query-id=\"CJ3lkYGyi_0CFTmqlQIdHSIBNA\" style=\"margin: 0px; padding: 0px;\"><div id=\"google_ads_iframe_/15188745,22440292294/Lipsum-Unit3_0__container__\" style=\"margin: 0px; padding: 0px; border: 0pt none; width: 160px; height: 600px;\"></div></div></div><div id=\"bannerR\" style=\"margin: 0px -160px 0px 0px; padding: 0px; position: sticky; top: 20px; width: 160px; height: 10px; float: right; text-align: left;\"><div id=\"div-gpt-ad-1474537762122-3\" data-google-query-id=\"CJ7lkYGyi_0CFTmqlQIdHSIBNA\" style=\"margin: 0px; padding: 0px;\"><div id=\"google_ads_iframe_/15188745,22440292294/Lipsum-Unit4_0__container__\" style=\"margin: 0px; padding: 0px; border: 0pt none; width: 160px; height: 600px;\"></div></div></div><div class=\"boxed\" style=\"margin: 10px 28.7969px; padding: 0px; clear: both;\"><div id=\"lipsum\" style=\"margin: 0px; padding: 0px; text-align: justify;\"><p style=\"margin-bottom: 15px; padding: 0px;\">Phasellus porta venenatis eleifend. Nulla eu velit consectetur, tristique mi a, lacinia magna. Nulla dictum arcu quis cursus tincidunt. Nulla facilisi. Ut rhoncus pulvinar metus, eu laoreet ipsum vulputate ac. Aliquam faucibus urna libero, id congue urna gravida quis. Curabitur dolor felis, interdum non nisl nec, feugiat efficitur massa. Etiam nec eros in nulla egestas mollis. Duis pellentesque justo nibh, nec dignissim tortor suscipit a. Donec mauris arcu, egestas non sodales quis, hendrerit sed sapien. Suspendisse at augue a felis gravida venenatis.</p><p style=\"margin-bottom: 15px; padding: 0px;\">Proin tempor orci non commodo commodo. Nam pulvinar est metus, at aliquam lectus faucibus a. Vivamus eu diam sollicitudin libero posuere tempor. Quisque eu eros non purus fringilla volutpat. Vivamus nulla magna, aliquet at est sit amet, malesuada mollis metus. In in orci turpis. Praesent vel aliquet purus. Vivamus massa elit, malesuada at luctus vitae, porta ut sem. Aliquam lacinia quam eros, vitae tempor sapien sollicitudin facilisis. Sed cursus a nisi eget hendrerit. Nam id lorem sed orci rhoncus luctus. Curabitur urna eros, consectetur ut vestibulum vel, consequat eget ante. Suspendisse aliquet vehicula mi, in sollicitudin orci tincidunt sit amet. Proin nibh erat, egestas nec molestie at, viverra sit amet ex.</p><p style=\"margin-bottom: 15px; padding: 0px;\">Etiam pellentesque leo vel turpis luctus, ac placerat nisl placerat. Duis feugiat posuere rutrum. Ut a varius est, quis ultrices ex. Aenean vel dignissim odio. Nulla lectus elit, mollis a tincidunt sed, aliquet nec erat. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed a quam erat. Maecenas porta pharetra velit. Etiam ornare in elit ac efficitur. Donec mi sapien, suscipit id iaculis cursus, sollicitudin id mi. Aenean consectetur sodales dui vitae accumsan. Donec pulvinar orci orci. Maecenas eu maximus tellus. Donec tempus mi non lectus varius faucibus. Integer cursus dui sit amet justo finibus viverra.</p><p style=\"margin-bottom: 15px; padding: 0px;\">Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Suspendisse sed ligula lobortis, efficitur diam non, congue libero. Praesent vitae enim scelerisque felis euismod egestas. Ut mollis metus sit amet ex congue ultrices. Maecenas rhoncus non erat non cursus. Donec non purus porta, pellentesque lectus et, consequat est. Cras lacinia faucibus sapien sed placerat. Donec eu diam purus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Cras a urna non lectus lacinia imperdiet. Cras placerat convallis nunc ac auctor. Morbi molestie pulvinar egestas. Etiam maximus lorem vitae egestas tincidunt. Morbi semper fringilla dignissim. Quisque eleifend massa sit amet nisi viverra, ut tristique elit vulputate. Aliquam laoreet hendrerit enim, ac vulputate sapien gravida et.</p><p style=\"margin-bottom: 15px; padding: 0px;\">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque pretium diam vel luctus porta. Nam at semper orci. Aliquam erat volutpat. Phasellus sodales imperdiet vestibulum. Vestibulum ac dui eu justo dictum faucibus. Mauris sollicitudin, ex nec porttitor scelerisque, nisi arcu mollis magna, in accumsan nisi tortor eget felis. Etiam laoreet tincidunt dolor vitae facilisis. Vestibulum varius ultricies velit. Duis ex ligula, mattis eget malesuada ac, placerat ac odio. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nam vehicula ac enim ut viverra. Fusce sollicitudin, sapien a faucibus elementum, ex sem venenatis est, et vehicula est mi ac magna. Mauris a hendrerit risus. Etiam lobortis luctus ex sed varius. Nulla sed blandit felis, at placerat nibh.</p><p style=\"margin-bottom: 15px; padding: 0px;\">Duis hendrerit consectetur finibus. Quisque a odio nec leo elementum ultrices. Maecenas et scelerisque nunc, eu scelerisque ex. Fusce malesuada turpis lorem, vitae rhoncus risus imperdiet quis. Praesent eu scelerisque diam. Etiam mollis condimentum est lacinia auctor. Etiam vel interdum risus. Nam non viverra enim. Quisque vitae finibus nibh, id sollicitudin felis.</p><p style=\"margin-bottom: 15px; padding: 0px;\">In nisi enim, bibendum vitae ornare at, sagittis at mauris. Donec efficitur id neque ut vulputate. Morbi a ligula a risus dictum tristique suscipit sed libero. Vivamus rhoncus semper augue, efficitur luctus lacus ullamcorper et. Integer posuere dui orci, eu sollicitudin leo dignissim malesuada. Quisque elementum mollis odio, nec aliquam lorem placerat in. In vitae tellus quis magna consequat facilisis. Ut commodo condimentum mauris, eu blandit tellus luctus quis. Maecenas consectetur facilisis tristique. Duis in consectetur metus. Cras iaculis mollis massa sit amet pulvinar. Integer tempus malesuada congue.</p><p style=\"margin-bottom: 15px; padding: 0px;\">Cras condimentum, felis quis consequat rutrum, dui erat facilisis neque, in lacinia orci ligula eu augue. Sed sed ipsum eget dui maximus bibendum non et urna. Cras laoreet, lorem eget dignissim gravida, dui ante suscipit elit, at efficitur risus purus at libero. Nulla volutpat nibh at nunc tempor, accumsan sagittis urna dignissim. Phasellus convallis efficitur arcu, et lobortis tortor faucibus nec. Nam dui leo, ultricies id convallis eget, ultricies a arcu. Phasellus tristique, nisi et tempus fringilla, eros ante facilisis elit, vel pretium ex magna a libero. Praesent scelerisque porta dolor sit amet euismod.</p></div></div></div>",
+            "excerto_post": "Morbi magna risus, semper eu condimentum sed, viverra a dui. Quisque hendrerit auctor massa ut molestie. Duis at ligula id justo consequat gravida. Etiam malesuada nisi id ex rutrum ullamcorper. Cras viverra fringilla dui, in tristique dui laoreet in.",
+            "categoria_post": 3,
+            "imagem_post": "post_img/2023/02/10/chip_circuit_processor_140251_1280x720.jpg",
+            "publicado_post": true
+        }
+    },
+    {
+        "model": "categorias.categoria",
+        "pk": 1,
+        "fields": {
+            "nome_cat": "Sistemas"
+        }
+    },
+    {
+        "model": "categorias.categoria",
+        "pk": 2,
+        "fields": {
+            "nome_cat": "Django"
+        }
+    },
+    {
+        "model": "categorias.categoria",
+        "pk": 3,
+        "fields": {
+            "nome_cat": "Python"
+        }
+    },
+    {
+        "model": "categorias.categoria",
+        "pk": 4,
+        "fields": {
+            "nome_cat": "Tecnologia"
+        }
+    },
+    {
+        "model": "comentarios.comentario",
+        "pk": 1,
+        "fields": {
+            "nome_comentario": "Melissa",
+            "email_comentario": "melissa@email.com",
+            "comentario": "testando",
+            "post_comentario": 3,
+            "usuario_comentario": 1,
+            "data_comentario": "2023-02-13T16:27:08.738Z",
+            "publicado_comentario": true
+        }
+    },
+    {
+        "model": "comentarios.comentario",
+        "pk": 2,
+        "fields": {
+            "nome_comentario": "teste anonimo",
+            "email_comentario": "anonimo@email.com",
+            "comentario": "teste an├┤nimo",
+            "post_comentario": 3,
+            "usuario_comentario": null,
+            "data_comentario": "2023-02-13T16:28:27.554Z",
+            "publicado_comentario": true
+        }
+    },
+    {
+        "model": "comentarios.comentario",
+        "pk": 3,
+        "fields": {
+            "nome_comentario": "rogerio",
+            "email_comentario": "rogerio@email.com",
+            "comentario": "tututurararara",
+            "post_comentario": 2,
+            "usuario_comentario": 1,
+            "data_comentario": "2023-02-13T16:58:14.096Z",
+            "publicado_comentario": true
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 1,
+        "fields": {
+            "action_time": "2023-02-10T16:29:03.541Z",
+            "user": 1,
+            "content_type": 2,
+            "object_id": "1",
+            "object_repr": "Sistemas",
+            "action_flag": 1,
+            "change_message": "[{\"added\": {}}]"
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 2,
+        "fields": {
+            "action_time": "2023-02-10T16:29:10.343Z",
+            "user": 1,
+            "content_type": 2,
+            "object_id": "2",
+            "object_repr": "Django",
+            "action_flag": 1,
+            "change_message": "[{\"added\": {}}]"
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 3,
+        "fields": {
+            "action_time": "2023-02-10T16:29:17.576Z",
+            "user": 1,
+            "content_type": 2,
+            "object_id": "3",
+            "object_repr": "Python",
+            "action_flag": 1,
+            "change_message": "[{\"added\": {}}]"
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 4,
+        "fields": {
+            "action_time": "2023-02-10T16:29:23.333Z",
+            "user": 1,
+            "content_type": 2,
+            "object_id": "4",
+            "object_repr": "Tecnologia",
+            "action_flag": 1,
+            "change_message": "[{\"added\": {}}]"
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 5,
+        "fields": {
+            "action_time": "2023-02-10T16:35:12.052Z",
+            "user": 1,
+            "content_type": 1,
+            "object_id": "1",
+            "object_repr": "How to Find the Right Tech Jobs for You",
+            "action_flag": 1,
+            "change_message": "[{\"added\": {}}]"
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 6,
+        "fields": {
+            "action_time": "2023-02-10T16:37:23.438Z",
+            "user": 1,
+            "content_type": 1,
+            "object_id": "2",
+            "object_repr": "The Top 10 New and Promising Artificial Intelligence Technologies You Should Look Out For in 2022",
+            "action_flag": 1,
+            "change_message": "[{\"added\": {}}]"
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 7,
+        "fields": {
+            "action_time": "2023-02-10T16:39:10.742Z",
+            "user": 1,
+            "content_type": 1,
+            "object_id": "3",
+            "object_repr": "How I Used Machine Learning to Make My Software Better",
+            "action_flag": 1,
+            "change_message": "[{\"added\": {}}]"
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 8,
+        "fields": {
+            "action_time": "2023-02-13T13:59:13.243Z",
+            "user": 1,
+            "content_type": 1,
+            "object_id": "3",
+            "object_repr": "How I Used Machine Learning to Make My Software Better",
+            "action_flag": 2,
+            "change_message": "[{\"changed\": {\"fields\": [\"Excerto\"]}}]"
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 9,
+        "fields": {
+            "action_time": "2023-02-13T13:59:22.108Z",
+            "user": 1,
+            "content_type": 1,
+            "object_id": "2",
+            "object_repr": "The Top 10 New and Promising Artificial Intelligence Technologies You Should Look Out For in 2022",
+            "action_flag": 2,
+            "change_message": "[{\"changed\": {\"fields\": [\"Excerto\"]}}]"
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 10,
+        "fields": {
+            "action_time": "2023-02-13T13:59:32.714Z",
+            "user": 1,
+            "content_type": 1,
+            "object_id": "1",
+            "object_repr": "How to Find the Right Tech Jobs for You",
+            "action_flag": 2,
+            "change_message": "[{\"changed\": {\"fields\": [\"Excerto\"]}}]"
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 11,
+        "fields": {
+            "action_time": "2023-02-13T14:35:10.355Z",
+            "user": 1,
+            "content_type": 1,
+            "object_id": "3",
+            "object_repr": "How I Used Machine Learning to Make My Software Better",
+            "action_flag": 2,
+            "change_message": "[{\"changed\": {\"fields\": [\"Publicado\"]}}]"
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 12,
+        "fields": {
+            "action_time": "2023-02-13T16:28:53.147Z",
+            "user": 1,
+            "content_type": 9,
+            "object_id": "2",
+            "object_repr": "teste anonimo",
+            "action_flag": 2,
+            "change_message": "[{\"changed\": {\"fields\": [\"Publicado\"]}}]"
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 13,
+        "fields": {
+            "action_time": "2023-02-13T16:28:53.152Z",
+            "user": 1,
+            "content_type": 9,
+            "object_id": "1",
+            "object_repr": "Melissa",
+            "action_flag": 2,
+            "change_message": "[{\"changed\": {\"fields\": [\"Publicado\"]}}]"
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 14,
+        "fields": {
+            "action_time": "2023-02-13T16:58:20.547Z",
+            "user": 1,
+            "content_type": 9,
+            "object_id": "3",
+            "object_repr": "rogerio",
+            "action_flag": 2,
+            "change_message": "[{\"changed\": {\"fields\": [\"Coment\\u00e1rio publicado\"]}}]"
+        }
+    },
+    {
+        "model": "auth.user",
+        "pk": 1,
+        "fields": {
+            "password": "pbkdf2_sha256$390000$ZIbRAwyOL6fqW0G2r1nNk5$QTV4aD2Hn25Jo62zB/OUZrk0ZBEjM5MRNqoMwn28ga4=",
+            "last_login": "2023-02-10T00:55:09.315Z",
+            "is_superuser": true,
+            "username": "rodrigorr",
+            "first_name": "",
+            "last_name": "",
+            "email": "rodrigo@email.com",
+            "is_staff": true,
+            "is_active": true,
+            "date_joined": "2023-02-10T00:54:31.580Z",
+            "groups": [],
+            "user_permissions": []
+        }
+    },
+    {
+        "model": "sessions.session",
+        "pk": "4rnqd53mn5y2vyf0cf1y98e5oo4dvk8x",
+        "fields": {
+            "session_data": ".eJxVjEEOwiAQRe_C2hCYDNBx6d4zEJihUjU0Ke3KeHdt0oVu_3vvv1RM21rj1ssSJ1FnZdXpd8uJH6XtQO6p3WbNc1uXKetd0Qft-jpLeV4O9--gpl6_NWUER-hsYLZI2Q3FE8HoOQQBI0TOkTGhjE6kAFvwARnsgJmQglHvD7q9Nqk:1pQHgz:D_bcutIK9QTUJVm1qGntbPTPVIe0ALLCJUWvycvy_gw",
+            "expire_date": "2023-02-24T00:55:09.318Z"
+        }
+    },
+    {
+        "model": "django_summernote.attachment",
+        "pk": 1,
+        "fields": {
+            "name": "download.jfif",
+            "file": "django-summernote/2023-02-10/48caa9f5-c1cc-490e-9bfa-7fe9e003c8ec.jfif",
+            "uploaded": "2023-02-10T13:11:31.842Z"
+        }
+    }
+]
